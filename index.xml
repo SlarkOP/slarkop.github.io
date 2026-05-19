@@ -18,6 +18,14 @@ technikos universitete. Šitas tinklalapis sukurtas atliekant laboratorinį
 darbą su Hugo ir git.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Java Laivo krovinio valdymas</title>
+      <link>https://slarkop.github.io/projects/java-laivas/</link>
+      <pubDate>Tue, 19 May 2026 12:00:00 +0300</pubDate>
+      <guid>https://slarkop.github.io/projects/java-laivas/</guid>
+      <description>&lt;p&gt;Java OOP užduotis: laivo krovinio valdymo sistema su klasėmis Laivas, Krovinys ir Uostas.
+Projekto metu išmokau klasių hierarchiją, encapsulation principus ir state management.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pirmas įrašas</title>
       <link>https://slarkop.github.io/posts/pirmas-irasas/</link>
       <pubDate>Tue, 19 May 2026 12:00:00 +0300</pubDate>
